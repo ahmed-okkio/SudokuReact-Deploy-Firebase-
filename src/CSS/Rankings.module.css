@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+.rankings{
+    margin-top:0.5em;
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+    transition:1s ease-in;
+}
+.boardsep{
+    display: block;
+    padding: 0;
+    margin:0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.boardsep .leftsep{
+    margin-left:230px;
+}
+.boardsep .rightsep{
+    margin-right:230px;
+}
+.boardsep li{
+    padding: 0;
+    margin:auto;
+    height:90vh;
+    border-left:5px solid rgb(255, 255, 255);
+    position: absolute;
+    list-style: none;
+    
+}
+.board{
+    width:700px;
+    min-width: 700px;
+    height:90vh;
+    border: 3px solid rgb(180, 180, 180);
+    background-color: rgba(21, 138, 95, 0.356);
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+}
+.headings{
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0.5em;
+    border-bottom: 8px solid rgb(255, 255, 255);
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    pointer-events: none;
+    -webkit-user-select: none;
+
+}
+.headings li{
+    color:white;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 24px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.726);
+    line-height: 25px;
+    justify-content: center;
+    list-style: none;
+    margin:auto;
+}
+.player{
+    padding:0 !important;
+    display: flex;
+    margin-top:0;
+    flex-direction: row;
+    /* justify-content: center; */
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.623);
+}
+.player li{
+    padding:0 !important;
+    color:white;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 24px;
+    line-height: 35px;
+    list-style: none;
+}
+.Place{
+    align-content: flex-start;
+    margin-right: 175px;
+    margin-left:110px;
+}
+.Name{
+    margin-left: 0px;
+}
+.Score{
+    margin-left:auto;
+    margin-right:80px;
+}

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SudokuReact-deploy/static/css/main.1ba38c19.chunk.css",
-    "main.js": "/SudokuReact-deploy/static/js/main.f6a02f25.chunk.js",
-    "main.js.map": "/SudokuReact-deploy/static/js/main.f6a02f25.chunk.js.map",
-    "runtime-main.js": "/SudokuReact-deploy/static/js/runtime-main.966efa7a.js",
-    "runtime-main.js.map": "/SudokuReact-deploy/static/js/runtime-main.966efa7a.js.map",
-    "static/js/2.05269fd6.chunk.js": "/SudokuReact-deploy/static/js/2.05269fd6.chunk.js",
-    "static/js/2.05269fd6.chunk.js.map": "/SudokuReact-deploy/static/js/2.05269fd6.chunk.js.map",
-    "index.html": "/SudokuReact-deploy/index.html",
-    "precache-manifest.7d7f47a40573b9d695e438e8b04b42c8.js": "/SudokuReact-deploy/precache-manifest.7d7f47a40573b9d695e438e8b04b42c8.js",
-    "service-worker.js": "/SudokuReact-deploy/service-worker.js",
-    "static/css/main.1ba38c19.chunk.css.map": "/SudokuReact-deploy/static/css/main.1ba38c19.chunk.css.map",
-    "static/js/2.05269fd6.chunk.js.LICENSE.txt": "/SudokuReact-deploy/static/js/2.05269fd6.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/SudokuReact-deploy/static/media/Logo.89d95068.png"
+    "main.css": "/SudokuReact-Deploy/static/css/main.1ba38c19.chunk.css",
+    "main.js": "/SudokuReact-Deploy/static/js/main.6aca2f3e.chunk.js",
+    "main.js.map": "/SudokuReact-Deploy/static/js/main.6aca2f3e.chunk.js.map",
+    "runtime-main.js": "/SudokuReact-Deploy/static/js/runtime-main.ebe64959.js",
+    "runtime-main.js.map": "/SudokuReact-Deploy/static/js/runtime-main.ebe64959.js.map",
+    "static/js/2.f40ee216.chunk.js": "/SudokuReact-Deploy/static/js/2.f40ee216.chunk.js",
+    "static/js/2.f40ee216.chunk.js.map": "/SudokuReact-Deploy/static/js/2.f40ee216.chunk.js.map",
+    "index.html": "/SudokuReact-Deploy/index.html",
+    "precache-manifest.37ac31b5312295b5a391870ca48342e8.js": "/SudokuReact-Deploy/precache-manifest.37ac31b5312295b5a391870ca48342e8.js",
+    "service-worker.js": "/SudokuReact-Deploy/service-worker.js",
+    "static/css/main.1ba38c19.chunk.css.map": "/SudokuReact-Deploy/static/css/main.1ba38c19.chunk.css.map",
+    "static/js/2.f40ee216.chunk.js.LICENSE.txt": "/SudokuReact-Deploy/static/js/2.f40ee216.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/SudokuReact-Deploy/static/media/Logo.89d95068.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.966efa7a.js",
-    "static/js/2.05269fd6.chunk.js",
+    "static/js/runtime-main.ebe64959.js",
+    "static/js/2.f40ee216.chunk.js",
     "static/css/main.1ba38c19.chunk.css",
-    "static/js/main.f6a02f25.chunk.js"
+    "static/js/main.6aca2f3e.chunk.js"
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sodukoreact/static/css/main.1ba38c19.chunk.css",
+    "main.js": "/sodukoreact/static/js/main.b544aa90.chunk.js",
+    "main.js.map": "/sodukoreact/static/js/main.b544aa90.chunk.js.map",
+    "runtime-main.js": "/sodukoreact/static/js/runtime-main.cb5f7a7b.js",
+    "runtime-main.js.map": "/sodukoreact/static/js/runtime-main.cb5f7a7b.js.map",
+    "static/js/2.5755cf77.chunk.js": "/sodukoreact/static/js/2.5755cf77.chunk.js",
+    "static/js/2.5755cf77.chunk.js.map": "/sodukoreact/static/js/2.5755cf77.chunk.js.map",
+    "index.html": "/sodukoreact/index.html",
+    "precache-manifest.d67376678286b8be547eb3f05c1b660d.js": "/sodukoreact/precache-manifest.d67376678286b8be547eb3f05c1b660d.js",
+    "service-worker.js": "/sodukoreact/service-worker.js",
+    "static/css/main.1ba38c19.chunk.css.map": "/sodukoreact/static/css/main.1ba38c19.chunk.css.map",
+    "static/js/2.5755cf77.chunk.js.LICENSE.txt": "/sodukoreact/static/js/2.5755cf77.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/sodukoreact/static/media/Logo.89d95068.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb5f7a7b.js",
+    "static/js/2.5755cf77.chunk.js",
+    "static/css/main.1ba38c19.chunk.css",
+    "static/js/main.b544aa90.chunk.js"
+  ]
+}

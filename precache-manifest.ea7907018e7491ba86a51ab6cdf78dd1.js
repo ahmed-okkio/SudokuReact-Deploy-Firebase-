@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d88c595eff20c0d0a61c3cfa22a696bc",
+    "revision": "98dd2e3150c3708ee5e41386d283bcb3",
     "url": "/SudokuReact-Deploy/index.html"
   },
   {
-    "revision": "de259c7f6dd955fd29f7",
+    "revision": "1d34718af227e48ed3e0",
     "url": "/SudokuReact-Deploy/static/css/main.f7553da0.chunk.css"
   },
   {
-    "revision": "84d0655c0a01f7a3e3df",
-    "url": "/SudokuReact-Deploy/static/js/2.ee3fc038.chunk.js"
+    "revision": "6f779a3101ab073c928b",
+    "url": "/SudokuReact-Deploy/static/js/2.c02f335a.chunk.js"
   },
   {
     "revision": "d0b13a04dd0dc4c851ad16fad1cc6f51",
-    "url": "/SudokuReact-Deploy/static/js/2.ee3fc038.chunk.js.LICENSE.txt"
+    "url": "/SudokuReact-Deploy/static/js/2.c02f335a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de259c7f6dd955fd29f7",
-    "url": "/SudokuReact-Deploy/static/js/main.b3315a21.chunk.js"
+    "revision": "1d34718af227e48ed3e0",
+    "url": "/SudokuReact-Deploy/static/js/main.1be0c1ce.chunk.js"
   },
   {
     "revision": "f6a197642ae5c68c4450",
